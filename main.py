@@ -1,4 +1,4 @@
-# for Gemini API,
+# for Gemini API
 import google.generativeai as genai
 
 # speech to text & vise versa
